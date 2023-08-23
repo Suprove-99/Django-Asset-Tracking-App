@@ -13,7 +13,7 @@ api/assignments/ <br/>
 api/assignments/<int:pk>/ <br/>
 
 ## Tools used:
-Djangp and Rest API
+Django and Rest API
 
 ## References:
 1. Build web APIs with Python and Django, William S. Vincent
